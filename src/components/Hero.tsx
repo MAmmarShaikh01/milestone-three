@@ -24,7 +24,7 @@ const Hero = () => {
                     {/* Content */}
                     <div className="relative text-center">
                         <h1 className="text-[35px] font-extrabold tracking-tight sm:text-5xl">
-                            Welcome to Elegant Finds Shop
+                            Welcome to Ammar Shop
                         </h1>
                         <p className="mt-6 text-xl max-w-3xl mx-auto text-black">
                         Discover a world of style, sophistication, and cutting-edge technology at Elegant Find Shop. We bring you an exclusive collection of:
